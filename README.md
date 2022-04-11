@@ -1,8 +1,5 @@
-# Basic Sample Hardhat Project
+# NFT marketplace created using hard hat
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
 
 ```shell
 npx hardhat accounts
@@ -13,3 +10,4 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
+<img width="1512" alt="Screenshot 2022-04-11 at 12 12 22 PM" src="https://user-images.githubusercontent.com/5158162/162664798-deebce9c-1008-452b-8a3e-74487ad7b883.png">
